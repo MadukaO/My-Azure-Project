@@ -21,3 +21,4 @@ Analytics and Big Data: With services like Azure Synapse Analytics and Azure Dat
 IoT Integration: Azure IoT Hub connects and manages millions of IoT devices, enabling businesses to collect and analyze data from the Internet of Things (IoT) in real-time, driving new innovation opportunities.
 
 In short, Microsoft Azure offers a complete, robust, and scalable cloud ecosystem designed to drive digital transformation, support innovation, and provide unparalleled security and compliance. Whether you're a startup or a global enterprise, Azure provides the tools, flexibility, and resources you need to succeed in the cloud.
+Add images
